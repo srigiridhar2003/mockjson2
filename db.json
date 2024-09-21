@@ -1,0 +1,166 @@
+{
+  "deserts" : [
+    {
+        "id": 1,
+        "item": "Gulab Jamun",
+        "price": 150,
+        "image": "https://media.istockphoto.com/id/1195386226/photo/gulab-jamun-indian-dessert-or-sweet-dish-in-bowl-with-spoon.jpg?s=612x612&w=0&k=20&c=R-7aN-BdNntIMPgCFeC_DnUAsf-pxnmi-l1leF9K3Ug=",
+        "description": "Deep-fried dough balls soaked in sweet, flavored syrup.",
+        "time": 25,
+        "rating": 4.6,
+        "count": 1580
+    },
+    {
+        "id": 2,
+        "item": "Jalebi",
+        "price": 75,
+        "image": "https://media.istockphoto.com/id/512836851/photo/jalebi-indian-sweet.jpg?s=612x612&w=0&k=20&c=8eJpIoSf22yk9o5wRdBrQZbrvSZyZB2kDmkCuu_cdm4=",
+        "description": "Crisp, coiled sweets soaked in sugar syrup, with a tangy flavor.",
+        "time": 18,
+        "rating": 4.0,
+        "count": 1420
+    },
+    {
+        "id": 3,
+        "item": "Rasgulla",
+        "price": 90,
+        "image": "https://media.istockphoto.com/id/1340769633/vector/indian-sweets-gulab-jamun-and-rasgulla-celebration-vector-background.jpg?s=612x612&w=0&k=20&c=5K7VX213ijiPoQy1tPQKAq7iCObHEsH8yfznrwO83Bw=",
+        "description": "Soft, spongy cheese balls soaked in light sugar syrup.",
+        "time": 12,
+        "rating": 4.3,
+        "count": 965
+    },
+    {
+        "id": 4,
+        "item": "Kheer",
+        "price": 79,
+        "image": "https://media.istockphoto.com/id/488569928/photo/semiya-payasam-kheer-for-festivals-diwaali-onam.jpg?s=612x612&w=0&k=20&c=y0M_Mg6PqdxyT30MdnNDu4d7jCxOiEm1Odc2lOguOKs=",
+        "description": "A creamy rice pudding flavored with cardamom and garnished with nuts.",
+        "time": 22,
+        "rating": 4.5,
+        "count": 1700
+    },
+    {
+        "id": 5,
+        "item": "Ladoo",
+        "price": 119,
+        "image": "https://media.istockphoto.com/id/1347513395/photo/kaliche-ladoo-is-popular-maharashtrian-sweet-or-desert-this-made-of-gram-flour-by-roasting-it.jpg?s=612x612&w=0&k=20&c=iAHU-DeZAn74CWGhj5Sr4VVqVL2tNK_eY4B88piZu6Q=",
+        "description": "Round, sweet balls made from flour, sugar, and ghee.",
+        "time": 15,
+        "rating": 3.8,
+        "count": 850
+    },
+    {
+        "id": 6,
+        "item": "Barfi",
+        "price": 70,
+        "image": "https://media.istockphoto.com/id/1194248655/photo/kaju-barfi-kaju-barfi-literally-cashew-slice-indian-dessert.jpg?s=612x612&w=0&k=20&c=3Zt95Ea0MAOxlWUm3gfJkIfVzniksaCxHpkswlE-fQI=",
+        "description": "A dense, milk-based sweet, often flavored with cardamom or nuts.",
+        "time": 30,
+        "rating": 4.2,
+        "count": 1150
+    },
+    {
+        "id": 7,
+        "item": "Halwa",
+        "price": 69,
+        "image": "https://media.istockphoto.com/id/1453052710/photo/top-view-of-gajar-halva-with-carrot-cashew-and-pistachio-nuts-in-bowls.jpg?s=612x612&w=0&k=20&c=HD7mpYyh5u-Jns2xwvN9GapXgOzJH3LPRy920t87bhI=",
+        "description": "A sweet, dense dessert made from flour, sugar, and ghee.",
+        "time": 28,
+        "rating": 3.9,
+        "count": 1300
+    },
+    {
+        "id": 8,
+        "item": "Sandesh",
+        "price": 100,
+        "image": "https://media.istockphoto.com/id/1269950543/photo/indian-tasty-and-delicious-sweets-chocolate-sandesh-and-jalebi.jpg?s=612x612&w=0&k=20&c=qeVYJxh0FMDFglrPAWny_uSFdmk2FjoTMau0YMTw8Kw=",
+        "description": "A soft, melt-in-the-mouth Bengali sweet made from fresh paneer.",
+        "time": 10,
+        "rating": 4.1,
+        "count": 1800
+    }
+],
+  "pickles" : [
+    {
+        "id": 1,
+        "item": "Mint Chutney",
+        "price": 80,
+        "image": "https://media.istockphoto.com/id/1158456206/photo/mint-sauce.jpg?s=612x612&w=0&k=20&c=sfVHQUpSTuxqDS6U-b6kWnbD4NQsrXWiegAM0MJIr6Q=",
+        "description": "A fresh and tangy dip made with mint, coriander, and spices.",
+        "time": 5,
+        "rating": 4.7,
+        "count": 1450
+    },
+    {
+        "id": 2,
+        "item": "Tamarind Chutney",
+        "price": 90,
+        "image": "https://media.istockphoto.com/id/931207802/photo/open-jar-of-sprats-in-a-tomato-sauce.jpg?s=612x612&w=0&k=20&c=NcnNMi5WW2o5-yoqbsy1zQ69kB7ENSdt2HZkkUVDa-g=",
+        "description": "A sweet and sour chutney made from tamarind pulp and jaggery.",
+        "time": 10,
+        "rating": 4.5,
+        "count": 1700
+    },
+    {
+        "id": 3,
+        "item": "Coconut Chutney",
+        "price": 75,
+        "image": "https://media.istockphoto.com/id/1168871746/photo/masala-dosa-with-coconut-chutney-south-indian-food.jpg?s=612x612&w=0&k=20&c=0eVZMk4wTXfl-71Z_Q6kKYmZZGmFuBv_74VhWGPJ3sQ=",
+        "description": "A creamy South Indian chutney made from grated coconut.",
+        "time": 8,
+        "rating": 4.6,
+        "count": 1125
+    },
+    {
+        "id": 4,
+        "item": "Tomato Chutney",
+        "price": 85,
+        "image": "https://media.istockphoto.com/id/1293681718/photo/tomato-chutney.jpg?s=612x612&w=0&k=20&c=VvJ2tH94tcS48A9AaA3sJ-NFRK5pE7H6rGGEVHl1rns=",
+        "description": "A tangy chutney made with tomatoes, spices, and sometimes coconut.",
+        "time": 12,
+        "rating": 4.2,
+        "count": 960
+    },
+    {
+        "id": 5,
+        "item": "Mango Pickle (Aam ka Achar)",
+        "price": 70,
+        "image": "https://media.istockphoto.com/id/578091684/photo/organic-sliced-indian-mango.jpg?s=612x612&w=0&k=20&c=8kA_qAtrMQClAGNFKg1vfuHU_U2PgVnVJ9jtpVKcIJg=",
+        "description": "A spicy and tangy pickle made from raw mangoes.",
+        "time": 15,
+        "rating": 4.3,
+        "count": 1300
+    },
+    {
+        "id": 6,
+        "item": "Lemon Pickle (Nimbu ka Achar)",
+        "price": 60,
+        "image": "https://media.istockphoto.com/id/481243022/photo/lime-chutney.jpg?s=612x612&w=0&k=20&c=d-YDmD6MlOLOufYVkd_m1Krzog0f_JKttnVTe3Wm_QI=",
+        "description": "A tangy and spiced pickle made with preserved lemons.",
+        "time": 10,
+        "rating": 4.4,
+        "count": 850
+    },
+    {
+        "id": 7,
+        "item": "Garlic Pickle",
+        "price": 65,
+        "image": "https://media.istockphoto.com/id/1280013029/vector/garlic-hand-drawn-vector-illustration-set-isolated-garlic-cloves-rosemary-and-black-pepper.jpg?s=612x612&w=0&k=20&c=xPh-9K7l9k1uZO9GFI2sqc5gkIE7hOAh-wmthl2lxks=",
+        "description": "A pungent, spicy pickle made from whole garlic cloves.",
+        "time": 20,
+        "rating": 3.9,
+        "count": 780
+    },
+    {
+        "id": 8,
+        "item": "Green Chili Pickle",
+        "price": 55,
+        "image": "https://media.istockphoto.com/id/157647452/photo/jalape%C3%B1o-pepper-jelly.jpg?s=612x612&w=0&k=20&c=vZqxqIq3voz6eQxfwMDFw_ZHxJYNjVUdsEWkvOjdML8=",
+        "description": "A fiery, spicy pickle made from fresh green chilies.",
+        "time": 15,
+        "rating": 4.1,
+        "count": 920
+    }
+]
+}
